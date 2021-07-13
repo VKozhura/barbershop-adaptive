@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sourcemaps": "^3.0.0"
+  },
+  "name": "barbershop-adaptive",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "gulp-sass": "^5.0.0",
+    "gulp-sourcemap": "^1.0.1",
+    "gulp-watch": "^5.0.1",
+    "sass": "^1.35.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VKozhura/barbershop-adaptive.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VKozhura/barbershop-adaptive/issues"
+  },
+  "homepage": "https://github.com/VKozhura/barbershop-adaptive#readme"
+}
